@@ -27,11 +27,7 @@ class ViewController: UIViewController {
         parent.childs = [child]
         parent.saveInBackground()
         */
-        print("Test")
-        
-        
-        
-        
+
         let query = AClass.query()
         query?.includeKey("childs")
         query?.getFirstObjectInBackgroundWithBlock({ (parent, error) -> Void in
