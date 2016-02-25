@@ -3,7 +3,7 @@ Parse test repo for child saving behaviour
 
 ## Instructions
 1. git clone
-2. create a new parse app (parse.com) \n
+2. create a new parse app (parse.com) 
 3. Use ParseTest.xcworkspace (because of using cocoapods)
 4. Add the application id / client key to the AppDelegate.swift
 5. Make sure that the app permission allows client class creation (parse.com)
