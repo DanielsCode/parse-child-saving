@@ -1,5 +1,5 @@
 # parse-child-saving
-Parse test repo for child saving behaviour
+Parse test repo for child saving behaviour / weird behaviour in one-to-many relations
 
 ## Instructions
 1. git clone
