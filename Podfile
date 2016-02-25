@@ -3,7 +3,7 @@ use_frameworks!
 
 target 'ParseTest' do
 
-  pod 'Parse', '~> 1.11.0'
+  pod 'Parse'
 
 end
 

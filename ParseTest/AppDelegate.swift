@@ -23,8 +23,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         // [Optional] Power your app with Local Datastore. For more info, go to
         
         // Initialize Parse.
-        Parse.setApplicationId("tdCwjivbUXu8SFcF1hOMwCEzks8A9bm2RBlorntl",
-            clientKey: "aJNFjrFifdqiTsozPx16O7z904hoM0z5NfvOnsop")
+        Parse.setApplicationId("5ZadVuxSWk9CGRrp5Brb5lkjOJL3lsAQUN6Y97tp",
+            clientKey: "B4r4GrGHuoF7vwZ3OiQ412udgDZNsGnZU8ndDMon")
     
         BClass.registerSubclass()
         AClass.registerSubclass()

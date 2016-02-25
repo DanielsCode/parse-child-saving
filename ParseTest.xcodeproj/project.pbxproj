@@ -17,7 +17,6 @@
 		652D47FE1C6BC42000A9F9EF /* ParseTestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 652D47FD1C6BC42000A9F9EF /* ParseTestUITests.swift */; };
 		652D480C1C6BC5FF00A9F9EF /* AClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 652D480B1C6BC5FF00A9F9EF /* AClass.swift */; };
 		652D480E1C6BC63D00A9F9EF /* BClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 652D480D1C6BC63D00A9F9EF /* BClass.swift */; };
-		652D48101C6BCACA00A9F9EF /* CClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 652D480F1C6BCACA00A9F9EF /* CClass.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,7 +53,6 @@
 		652D47FF1C6BC42000A9F9EF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		652D480B1C6BC5FF00A9F9EF /* AClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AClass.swift; sourceTree = "<group>"; };
 		652D480D1C6BC63D00A9F9EF /* BClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BClass.swift; sourceTree = "<group>"; };
-		652D480F1C6BCACA00A9F9EF /* CClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CClass.swift; sourceTree = "<group>"; };
 		8E2876A87B2979D8070E10EC /* Pods_ParseTest.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ParseTest.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		DA1D5461CC9AEED388F7BDFD /* Pods-ParseTest.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ParseTest.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ParseTest/Pods-ParseTest.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -126,7 +124,6 @@
 				652D47DF1C6BC42000A9F9EF /* ViewController.swift */,
 				652D480B1C6BC5FF00A9F9EF /* AClass.swift */,
 				652D480D1C6BC63D00A9F9EF /* BClass.swift */,
-				652D480F1C6BCACA00A9F9EF /* CClass.swift */,
 			);
 			path = ParseTest;
 			sourceTree = "<group>";
@@ -344,7 +341,6 @@
 				652D47E01C6BC42000A9F9EF /* ViewController.swift in Sources */,
 				652D47DE1C6BC42000A9F9EF /* AppDelegate.swift in Sources */,
 				652D480E1C6BC63D00A9F9EF /* BClass.swift in Sources */,
-				652D48101C6BCACA00A9F9EF /* CClass.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
